@@ -1,184 +1,183 @@
 
-*{
-    padding: 0;
-    margin: 0;
-    font-family: "Roboto",sans-serif;
-  }
-  header{
-    background-color: rgb(255, 115, 0);
-    width: 100%;
-    height: 110px;
-  }
-  header a{
-    text-decoration: none;
-  }
+      *{
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto",sans-serif;
+}
+header{
+  background-color: rgb(255, 115, 0);
+  width: 100%;
+  height: 110px;
+}
+header a{
+  text-decoration: none;
+}
+
+i{
+  text-align: center;
+}
+h1{
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px 20px;
+}
+nav{
+  height: 35px;
+  background: rgb(67, 62, 62);
+}
+nav.menu{
+  list-style: none;
+}
+li a:hover{
+  color:orange;
+  font-size: 20px;
   
-  i{
-    text-align: center;
-  }
-  h1{
-    color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 20px 20px;
-  }
-  nav{
-    height: 35px;
-    background: rgb(67, 62, 62);
-  }
-  nav.menu{
-    list-style: none;
-  }
-  li a:hover{
-    color:orange;
-    font-size: 20px;
-    
-  }
-  li{
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  ul li a{
-    color: #ffffff;
-    font-size: 16px;
-    text-decoration: none;
-  }
-  
-  input{
-    text-align: center;
-    padding-right: 12px;
-  }
-  .search{
-    line-height: 35px;
-    float: right;
-  } 
-  .slide{
-    width: 1585px;
-    height: 500px;
-    padding: 0;
-    margin: 0;
-  
-  }
-  h2{
-    color: black;
-    text-align: center;
-  
-  }
-  .tegiac{
-    width: 400px;
-    height: 200px;
-  }
-  .abao{
-    margin-top: 10px;
-  }
-  .bao{
-    width: 400px;
-    height: 200px;
-  }
-  .akhi{
-    margin-top: 10px;
-  }
-  .khi{
-    width: 400px;
-    height: 200px;
-  }
-  footer{
-    padding:20px;
-    margin-top:20px;
-    color:#ffffff;
-    background-color:#e8491d;
-    text-align: center;
-  }
-  .fizz h2{
-    padding-bottom: 60px;
-    text-align: left;
-    padding-top: 20px;
-    padding-left: 600px;
-    font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  
-  .fizz{
-   background: aqua;
-   border-radius: 50%;
-  }
-  .item{
-    margin-top: 10px;
-  }
-  .cavoi{
-    width: 200px;
-    height: 200px;
-  }
-  .item{
-    margin-top: 10px;
-  }
-  .caheo{
-    width: 200px;
-    height: 200px;
-  }
-  .camap{
-    width: 200px;
-    height: 200px;
-  }
-  
-  .acamap{
+}
+li{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul li a{
+  color: #ffffff;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+input{
+  text-align: center;
+  padding-right: 12px;
+}
+.search{
+  line-height: 35px;
+  float: right;
+} 
+.slide{
+  width: 1520px;
+  height: 500px;
+  padding: 0;
+  margin: 0;
+
+}
+h2{
+  color: black;
+  text-align: center;
+
+}
+.tegiac{
+  width: 400px;
+  height: 200px;
+}
+.abao{
+  margin-top: 10px;
+}
+.bao{
+  width: 400px;
+  height: 200px;
+}
+.akhi{
+  margin-top: 10px;
+}
+.khi{
+  width: 400px;
+  height: 200px;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
+.fizz h2{
+  padding-bottom: 60px;
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 600px;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.fizz{
+ background: aqua;
+ border-radius: 50%;
+}
+.item{
+  margin-top: 10px;
+}
+.cavoi{
+  width: 200px;
+  height: 200px;
+}
+.item{
+  margin-top: 10px;
+}
+.caheo{
+  width: 200px;
+  height: 200px;
+}
+.camap{
+  width: 200px;
+  height: 200px;
+}
+
+.acamap{
+width: 30%;
+padding: 1%;
+float: left;
+border: 1px solid #ccc;
+
+}
+.acavoi{
   width: 30%;
   padding: 1%;
   float: left;
   border: 1px solid #ccc;
-  
   }
-  .acavoi{
+  .acaheo{
     width: 30%;
     padding: 1%;
     float: left;
     border: 1px solid #ccc;
     }
-    .acaheo{
-      width: 30%;
-      padding: 1%;
-      float: left;
-      border: 1px solid #ccc;
-      }
-    .birl{
-      height: 150px;
-      width: 450px;
-      border: 3px solid #da790b;
-      position: absolute;
-      transform: translate(-50%,-50%);
-      top: 30%;
-      left: 50%;
-      border-radius: 10px;
-      padding-left: none;
-    }
-  .fly{
-    padding-top: 25px;
-    background-color: aqua;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    height: 125px;
+  .birl{
+    height: 150px;
     width: 450px;
+    border: 3px solid #da790b;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 50%;
     border-radius: 10px;
+    padding-left: none;
   }
-  .chim{
-    padding-top: 200px;
-  }
-  .daibang{
-    width: 522px;
-    height: 300px;
-    float: left;
-  }
-  .achimcong{
-    margin-top: 30px;
-  }
-  .adieuhau{
-    margin-top: 30px;
-  }
-    
-      
+.fly{
+  padding-top: 25px;
+  background-color: aqua;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 125px;
+  width: 450px;
+  border-radius: 10px;
+}
+.chim{
+  padding-top: 200px;
+}
+.daibang{
+  width: 500px;
+  height: 300px;
+  float: left;
+}
+.achimcong{
+  margin-top: 30px;
+}
+.adieuhau{
+  margin-top: 30px;
+}
+  
   
      
       
