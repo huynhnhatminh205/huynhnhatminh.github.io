@@ -69,11 +69,10 @@ input {
 }
 
 .slide {
-    width: 1520px;
+    width: 100%;
     height: 500px;
     padding: 0;
     margin: 0;
-
 }
 
 h2 {
